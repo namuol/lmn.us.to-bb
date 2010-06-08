@@ -4,3 +4,9 @@ state.sqlite
 devkitpro.sh-full
 dkp/devkitpro.sh-full
 twistd.pid
+dkp/devkitpro.sh-full/build
+dkp/twistd.log
+dkp/twistd.log
+dkp/twistd.pid
+dkp/twistd.pid
+twistd.pid
