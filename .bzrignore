@@ -1,0 +1,6 @@
+http.log
+twistd.log
+state.sqlite
+devkitpro.sh-full
+dkp/devkitpro.sh-full
+twistd.pid
