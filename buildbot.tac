@@ -4,7 +4,7 @@ import os
 from twisted.application import service
 from buildbot.master import BuildMaster
 
-basedir = r'/home/louman/dev/buildbot'
+basedir = r'.'
 rotateLength = 1000000
 maxRotatedFiles = None
 

@@ -4,7 +4,7 @@ import os
 from twisted.application import service
 from buildbot.slave.bot import BuildSlave
 
-basedir = r'/home/louman/dev/buildbot/dkp'
+basedir = r'.'
 rotateLength = 1000000
 maxRotatedFiles = None
 
