@@ -2,7 +2,8 @@
 import os
 
 from twisted.application import service
-from buildbot.slave.bot import BuildSlave
+#from buildbot.slave.bot import BuildSlave
+from buildslave.bot import BuildSlave
 
 basedir = r'.'
 rotateLength = 1000000
